@@ -8,7 +8,7 @@ import circuitpython_schedule as schedule
 alarm_times = ["18:08"]
 
 # set up the LED
-led = digitalio.DigitalInOut(board.GP0)
+led = digitalio.DigitalInOut(board.GP15)
 led.switch_to_output()
 led.value = True
 # Flash LED when program is first run_pending
