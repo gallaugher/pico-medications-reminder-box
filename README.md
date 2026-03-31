@@ -4,7 +4,8 @@ Parts:
 - Single color LED light
 - 100 Ohm resistor (220 will likely also work fine)
 - Reed switch
-- A box with a lift that can lift to separate parts of the reed switch. I used this one from Amazon:
+- A box with a lift that can lift to separate parts of the reed switch. I used this one from Amazon: https://a.co/d/0iu3N2x8
+  BUT when my students build this for class they create a living hinge box & cut it out on the laser cutter. https://youtu.be/Jq44UR_wysw?si=VX8IqG3bE4gJLiMD
 
 Code assumes you have a settings.toml file on your CIRCUITPY board with the following parameters set to your Wi-Fi Network Name & Password:
 CIRCUITPY_WIFI_SSID="Wi-Fi Network Name Here"
